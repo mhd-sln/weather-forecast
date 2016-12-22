@@ -1,0 +1,10 @@
+{
+    "not_less_than_temperature": -15,
+    "not_more_than_temperature": 30,
+    "city" : [
+               1174872,
+               5106292,
+               658224  
+           ],
+    "checking_interval": 20
+}
